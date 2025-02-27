@@ -41,9 +41,17 @@ Bellabeat wants to analyze Fitbit fitness tracker data to understand user behavi
 
 ## Key Findings & Business Impact  
 
-- **User Engagement Trends** → Engagement rate peaked at certain periods, indicating seasonal or promotional impact.  
-- **Active User Patterns** → A noticeable increase in active users correlated with higher engagement rates.  
-- **Marketing Strategy** → Bellabeat can optimize engagement by targeting users with personalized notifications and incentives during peak engagement times.   
+- The daily engagement rate was low (~5.71%) from March 12 to March 24, indicating limited user activity.
+- Engagement gradually increased from March 25, reaching 31.43% by March 31 and peaking at 100% from April 2 to April 5.
+- Post-April 5, engagement declined to 68.57% by April 12, highlighting potential retention challenges.
+- The early April engagement surge suggests a successful campaign or feature launch, which should be analyzed and replicated.
+- The decline in engagement indicates a need for retention strategies, such as push notifications, loyalty programs, and personalized marketing.
+
+## Recommendations
+✔ Implement a loyalty program to sustain engagement.
+✔ Use push notifications & in-app challenges to encourage daily activity.
+✔ Analyze user behavior around April 1-5 to identify key engagement drivers.
+✔ Personalize marketing efforts to improve user retention.   
 
 ---
 
