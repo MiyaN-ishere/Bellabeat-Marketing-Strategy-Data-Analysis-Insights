@@ -58,5 +58,5 @@ Bellabeat wants to analyze Fitbit fitness tracker data to understand user behavi
 ## Project Files & Links  
 
 - **Final Report** → [Download PDF](reports/Final_report.pdf)
-- **Tableau Dashboard** → [View Online]((visualizations/Daily_Engagement_Rate_Active_Users_Trend_Tableau.png)
+- **Tableau Dashboard** → [View Online](visualizations/Tableau_chart.png)
 - **Presentation Slides** → [Download PPT](presentation/Bellabeat-Marketing-Strategy-Presentation.pptx) 
