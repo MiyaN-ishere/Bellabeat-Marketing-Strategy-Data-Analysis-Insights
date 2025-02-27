@@ -1,0 +1,1 @@
+FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): https://www.kaggle.com/datasets/arashnic/fitbit
