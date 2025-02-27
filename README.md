@@ -48,15 +48,15 @@ Bellabeat wants to analyze Fitbit fitness tracker data to understand user behavi
 - The decline in engagement indicates a need for retention strategies, such as push notifications, loyalty programs, and personalized marketing.
 
 ## Recommendations
-✔ Implement a loyalty program to sustain engagement.
-✔ Use push notifications & in-app challenges to encourage daily activity.
-✔ Analyze user behavior around April 1-5 to identify key engagement drivers.
-✔ Personalize marketing efforts to improve user retention.   
+- Implement a loyalty program to sustain engagement.
+- Use push notifications & in-app challenges to encourage daily activity.
+- Analyze user behavior around April 1-5 to identify key engagement drivers.
+- Personalize marketing efforts to improve user retention.   
 
 ---
 
 ## Project Files & Links  
 
-- **Final Report** → [Download PDF](reports/Bellabeat Marketing Strategy Report.pdf) 
+- **Final Report** → [Download PDF](reports/Bellabeat Marketing Strategy Report.pdf)
 - **Tableau Dashboard** → [View Online](#) (visualizations/Daily Engagement Rate & Active Users Trend_Tableau.png)
 - **Presentation Slides** → [Download PPT](presentation/Bellabeat-Marketing-Strategy-Presentation.pptx) 
